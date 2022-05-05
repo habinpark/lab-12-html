@@ -1,0 +1,11 @@
+Portfolio Brainstorming:
+
+On my Portfolio I will have display my games that I have created so far as well as some of my 3d art and animations.
+
+The three games that I will display are:
+
+Ball is Life: A roll-a-ball game with a unique point system designed to incentivize the player
+Arachnocide: A high action top down shooter with horror and bullet hell elements.
+Cube of Darkness: A 2.5D platformer with an emphasis on precise physics based movement.
+
+For art I will be also display some of my blender animations and art that are on my YouTube channel.
