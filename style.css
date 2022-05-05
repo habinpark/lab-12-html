@@ -26,6 +26,34 @@ h4, h4 > em {
     padding: 10;
 }
 
+/* link */
+h5 {
+    color: blueviolet;
+}
+
+/* visted link */
+a {
+    color: #189e03;
+    stroke: 1;
+}
+
+/* hovered link */
+a:hover {
+    color: #22ff00;
+}
+
+
+/* class selector */
+.coolText {
+    color: aqua;
+}
+
+/* id selector */
+#heading1 {
+    text-align: center;
+    color: red;
+}
+
 /* 
 TO DO LIST 
 1. link
